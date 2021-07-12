@@ -1,0 +1,81 @@
+body {
+    background-color: #607d8b;
+
+}
+
+.container {
+    padding: 30px 0px 10px 0px;
+}
+#logo {
+    padding-top: 100px;
+}
+h1 {
+    text-align: center;
+    padding-bottom: 20px;
+}
+.form-group{
+    position: relative;
+    margin-bottom: 25px;
+}
+.form-group span {
+    position: absolute;
+    top: -1px;
+    left: -1px;
+    height: 47px;
+    width: 50px;
+    border-radius: 5px 0px 0px 5px;
+    background-color: #007bff;
+    border-color:#007bff;
+}
+.form-group span i {
+    background-color: #007bff;
+    margin-left: 5px;	
+
+}
+.form-group input {
+    padding-left: 60px;
+    left: 41px;
+    height: 45px;
+    font-size: 18px;
+}
+.form-group div	input {
+    margin-bottom: 0px;	
+    width: 15px;
+    height: 15px;
+}
+.form-group div label{
+    font-size: 20px;
+    margin-bottom: 0px;	
+}
+.form-group div p {
+    font-size: 20px;
+    margin-bottom: 8px;	
+    margin-left: 15px;
+    margin-top: 18px;
+    padding-top: 10px;
+
+}
+.form-group small {
+    font-size: 18px;
+    color: red;
+}
+.btn {
+    height: 45px;
+    font-size: 22px;
+}
+.register {
+    text-align: center;
+    font-size: 20px;
+}
+#avatar input {
+    background-color: transparent;
+    padding: 0px;
+    margin-left: 80px;
+    border:none;
+} 
+
+#avatar span {
+    font-size: 20px;
+    width: 80px;
+    height: 34px;
+}
