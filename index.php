@@ -96,7 +96,7 @@ include("include/header.php");
 </div>
 <div class="container footer">
     <div class="row justify-content-center">
-        <h2 class="col col-12">© 2021 ATN - Cloud Computing. Copyright by Van</h2>
+        <h2 class="col col-12">© 2021 ATN - Cloud Computing. Copyright by Van Thai</h2>
     </div>
 </div>
 
