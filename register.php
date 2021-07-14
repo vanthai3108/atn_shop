@@ -137,6 +137,8 @@
                 'PhoneNumber' => $phone,
                 'EmailAddress' => $email,
                 'AvataImage' => $file_name,
+                'Permission' => 0,
+                'Status' => 'true',
             ]);
             if ($result) {
                 echo "<script>alert('Register successfull!')</script>";
