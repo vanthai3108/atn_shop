@@ -41,7 +41,7 @@
                 <input type="text" class="form-control" name="PhoneNumber" required=""  value="<?php if ($userID != null){ echo "$user->PhoneNumber";} ?>" placeholder="Phone Number">
             </div>
             <div class="form-group">
-                <input type="email" class="form-control" name="Email" required=""  value="<?php if ($userID != null){echo "$user->EmailAdress"; }?>"  placeholder="Email Address">
+                <input type="email" class="form-control" name="Email" required=""  value="<?php if ($userID != null){echo "$user->EmailAddress"; }?>"  placeholder="Email Address">
             </div>
             <div class="form-group">
                 <input type="file" class="select-avatar" name="Image" required=""  value="<?php if ($userID != null){ echo "$user->AvataImage"; }?>"  placeholder="Avatar">
