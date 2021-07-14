@@ -39,7 +39,7 @@
 <div class="container-fluid">
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col-md-5 col-sm-8 col-10">
+            <div class="col-lg-5 col-md-8 col-10">
                 <div class="row">
                     <a class="col col-12" href="index.php">
                         <div class="row justify-content-center" id="logo">
@@ -48,7 +48,7 @@
                     </a>
                 </div>
             </div>
-            <div class="col col-md-7 col-lg-9 col-md-10 col-12">
+            <div class="col col-lg-7 col-md-12 col-12">
                 <div class="row d-flex justify-content-center">
                     <h1 class="col col-12">Register</h1>
                 </div>
