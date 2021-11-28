@@ -110,8 +110,8 @@
                     ]);
                     $delete = $db->table('cart')->columnId('CartID')->delete($pay_cart->CartID);
                 }
-                // echo "<script>alert('Order successfull!')</script>";
-                // echo "<script>window.open('cart.php','_self')</script>";	
+                echo "<script>alert('Order successfull!')</script>";
+                echo "<script>window.open('cart.php','_self')</script>";	
             }
         }
         ?>
